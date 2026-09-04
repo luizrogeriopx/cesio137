@@ -1,4 +1,5 @@
-# ☢️ A Tragédia do Césio-137: Caderno Temático e Guia de Estudos Ativos
+# ☢️ A Tragédia do Césio-137: 
+Caderno Temático e Guia de Estudos Ativos
 
 Este repositório foi desenvolvido como entrega para o **Desafio de Aprendizagem Ativa** da **DIO (Digital Innovation One)**. Ele consiste em um portfólio completo de estudos sobre o acidente radiológico do **Césio-137**, ocorrido em Goiânia em setembro de 1987. 
 
